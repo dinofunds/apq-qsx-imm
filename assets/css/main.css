@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@400;500;600;700&family=PT+Sans:wght@400;700&display=swap');
+
+.font-pt-sans {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.font-arimo {
+    font-family: 'Arimo', sans-serif;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
